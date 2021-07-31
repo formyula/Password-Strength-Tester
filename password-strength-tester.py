@@ -14,7 +14,7 @@ print("If the process takes too long, (Over 2 Hours), your password exceedingly 
       "uncrackable, well done.")
 print("To end the process prematurely, press CTRL-C")
 print("")
-print("Source-Code available upon request, please email max.6688@icloud.com for access. ")
+print("Source-Code available on the GitHub page, ")
 print("")
 print("*Your password will not be seen, saved or taken by any person, this is an offline program*")
 print("")
