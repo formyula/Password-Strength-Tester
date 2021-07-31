@@ -8,6 +8,7 @@ To use the program, you must have the latest release of PYTHON, That's It!
 # Instructions
 All you need to do is Download the ZIP file, Un-Zip it, execute the script, and you have BEGUN!
 Please note that the program may not execute in terminal, please open the program from the file
+Access the most recent version of PYTHON here: https://www.python.org/downloads/
 # Open-Source
 The source-code is completely open-source and free, so you and CTRL-C as much a you want!
 
