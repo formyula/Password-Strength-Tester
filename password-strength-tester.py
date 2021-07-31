@@ -1,5 +1,3 @@
-# *please do not re-use this code, it is not for redistribution without permission*
-
 # the opening screen (aka the most print functions you will ever see in a simple password brute-force tool)
 print("P    A    S    S    W    O    R    D")
 print("S    T    R    E    N    G    T    H")
