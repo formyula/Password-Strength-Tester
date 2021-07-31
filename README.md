@@ -14,12 +14,7 @@ The source-code is completely open-source and free, so you and CTRL-C as much a 
 *Please attempt to give credit if you re-use the code*
 
 
-#
-# |  ___|                       | |      
-# | |_ ___  _ __ _ __ ___  _   _| | __ _ 
-# |  _/ _ \| '__| '_ ` _ \| | | | |/ _` |
-# | || (_) | |  | | | | | | |_| | | (_| |
-# \_| \___/|_|  |_| |_| |_|\__,_|_|\__,_|
-#             -------------
-#             get formulated
-#              ------------
+       -------------
+F    O    R   M    U    L    A
+       get formulated
+       -------------
