@@ -34,7 +34,7 @@ while guess != password:
 # more unnecessary print functions, I guess it makes the program a bit prettier?
 print("Password cracked! Your password is: " + guess)
 print("")
-print("How long did the process take? if the process took longer that 25 minutes, Congratulations!"
+print("How long did the process take? if the process took longer that 25 minutes, Congratulations!")
 print("Your password strength is adequate, If the process took less time than expected, your password may need some help"    
       " If you need help choosing a new and strong password; use a password generator such"
       " as https://passwordsgenerator.net/")
