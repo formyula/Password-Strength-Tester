@@ -12,9 +12,4 @@ Please note that the program may not execute in terminal, please open the progra
 The source-code is completely open-source and free, so you and CTRL-C as much a you want!
 
 *Please attempt to give credit if you re-use the code*
-
-
-       -------------
-F    O    R   M    U    L    A
-       get formulated
-       -------------
+Credit to FORMULA if you re-use the code
