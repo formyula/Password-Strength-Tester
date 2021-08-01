@@ -22,7 +22,7 @@ print("")
 import random
 
 character_list = "AaBbCcDdEeFfGgHhIiJjKkLlMmNnOoPpQqRrSsTtUuVvWwXxYyz1234567890!@#$%^&*()<>?:{}|+_~`"
-password = input("Enter Password: ")
+password = input("Enter the Password you would like to be tested: ")
 guess = ""
 while guess != password:
     guess = random.choices(character_list, k=len(password))
