@@ -15,8 +15,8 @@ The source-code is completely open-source and free, so you and CTRL-C as much a 
 **Please attempt to give credit if you re-use the code.**
 Credit would go to me (FORMULA).
 # Linux
-To use the program on a Linux system, follow these instructions in your terminal.
-git clone https://github.com/formyula/Password-Strength-Tester.git  
-cd Password-Strength-Tester
-To Execute:
-python3 password-strength-tester
+To use the program on a Linux system, follow these instructions in your terminal:
+- git clone https://github.com/formyula/Password-Strength-Tester.git  
+- cd Password-Strength-Tester
+- (Next line executes program)
+- python3 password-strength-tester
