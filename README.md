@@ -13,4 +13,4 @@ Access the most recent version of PYTHON here: https://www.python.org/downloads/
 The source-code is completely open-source and free, so you and CTRL-C as much a you want!
 
 **Please attempt to give credit if you re-use the code.**
-Credit would go to me FORMULA.
+Credit would go to me (FORMULA).
